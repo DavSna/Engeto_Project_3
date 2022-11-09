@@ -32,9 +32,9 @@ python projekt_3.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumn
 
 ###### Průběh stahovaní:
 ```
-STAHUJI DATA Z VYBRANEHO URL: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2109
-UKLADAM DO SOUBORU: praha_vychod.csv
-UKONCUJI PROGRAM
+STAHUJI DATA Z VYBRANÉHO URL: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2109
+UKLÁDÁM DO SOUBORU: praha_vychod.csv
+UKONČUJI PROGRAM
 ```
 
 ###### Částečný výstup:
